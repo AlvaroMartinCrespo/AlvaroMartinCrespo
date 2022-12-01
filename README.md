@@ -1,6 +1,6 @@
 # Hi, I’m @AlvaroMartinCrespo 💻💻
 
-<img src="">
+<img src="./img/img1.png">
 
 # Find me around the web🌍:
  - https://amc-portfolio.vercel.app/
