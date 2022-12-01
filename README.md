@@ -5,8 +5,8 @@
 I am a student of web application development.
 
 I have several projects on my website, where I use JavaScript, HTML, CSS in React
+<div>I enjoy working with include ReactJS. <img src="./img/gif2.gif" width="70" height="40" /></div>
 
-I enjoy working with include ReactJS. <img src="./img/gif2.gif" width="70" height="40" />
 
 # Find me around the web🌍:
  - https://amc-portfolio.vercel.app/
