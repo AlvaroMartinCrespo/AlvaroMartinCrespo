@@ -9,6 +9,6 @@ I have several projects on my website, where I use JavaScript, HTML, CSS in Reac
  I enjoy working with include ReactJS. <img src="./img/gif2.gif" width="70" height="40" />
 
 # Find me around the web🌍:
- - https://amc-portfolio.vercel.app/
- - https://www.linkedin.com/in/alvaro-martin-crespo-bb9aa5246/
+ - [Portfolio](https://alvarodev.vercel.app/)
+ - [LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-mart%C3%ADn-crespo-bb9aa5246/)
 
