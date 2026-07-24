@@ -2,8 +2,6 @@
   
 <div align="center">
 
-──── ⋆⋆⋆ ────
-
 # Álvaro Martín Crespo
 ### Frontend Developer · React & Javascript Engineer
 
