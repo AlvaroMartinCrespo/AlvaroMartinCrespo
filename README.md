@@ -1,22 +1,48 @@
-# Hi, I’m @AlvaroMartinCrespo 💻💻
+<div align="center">
 
-<img src="./img/img1.png">
+──── ⋆⋆⋆ ────
 
-## Desarrollador Web y Apasionado por ReactJS
+# Álvaro Martín Crespo
+### Frontend Developer · React & Javascript Engineer
 
-¡Hola! Soy un desarrollador web graduado en desarrollo de aplicaciones web con experiencia en el uso de tecnologías como HTML, CSS, JavaScript (jQuery) y PHP. También soy un apasionado de aprender y me considero autodidacta.
+Construyo interfaces web rápidas y accesibles con **React, TypeScript, JavaScript, Angular y PHP**.
+Explorando el desarrollo asistido por IA con **ChatGPT, Gemini y Claude**.
 
-Durante mis 3 meses de experiencia laboral como desarrollador web, he trabajado en diversos proyectos donde he utilizado estas tecnologías para crear aplicaciones y páginas web. Mi objetivo es seguir desarrollando mis habilidades como desarrollador frontend o full-stack.
+──── ⋆⋆⋆ ────
 
-Además de mis proyectos profesionales, también dedico tiempo a explorar y aprender nuevas tecnologías. Me he sumergido en el mundo de ReactJS y Next.js, donde he creado proyectos de aplicaciones y páginas web. Disfruto especialmente trabajar con ReactJS, ya que ofrece una experiencia de desarrollo dinámica y eficiente.
+</div>
 
-Si quieres conocer más sobre mis proyectos y explorar mi trabajo, visita mi página web donde encontrarás una muestra de mis proyectos. Estoy emocionado por seguir aprendiendo y creando aplicaciones web emocionantes y de alta calidad.
+<br>
 
-¡Gracias por visitar mi perfil!
+<div align="center">
 
-![ReactJS](./img/gif2.gif)
+### 🧩 Tech Stack
 
-# Find me around the web🌍:
- - [Portfolio](https://devalvaro.vercel.app/)
- - [LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-mart%C3%ADn-crespo-bb9aa5246/)
+<img src="https://skillicons.dev/icons?i=react,ts,js,angular,php,html,css,github,bitbucket,lit&theme=dark" alt="React, TypeScript, JavaScript, Angular, PHP, HTML, CSS, GitHub, Bitbucket, Lit" />
 
+### 🤖 AI-Powered Development
+
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
+
+<br>
+
+### 🔗 Let's Connect
+
+<a href="https://bsky.app/profile/alvaromartincrespo.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky" /></a>
+<a href="https://www.linkedin.com/in/alvaromartincrespo/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://alvarodev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=00F5FF" alt="Portfolio" /></a>
+<a href="https://alvaromartincrespo.blogspot.com/"><img src="https://img.shields.io/badge/Blogger-FF7139?style=flat-square&logo=blogger&logoColor=white" alt="Blogger" /></a>
+<a href="https://mastodon.social/@alvaro_martin_crespo"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white" alt="Mastodon" /></a>
+<a href="https://dev.to/alvaro_martin_crespo_frontend"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=39FF14" alt="Dev.to" /></a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+*Frontend Developer · Full Stack Web Developer · React Developer · TypeScript Developer · Angular Developer · PHP Developer*
+
+</div>
