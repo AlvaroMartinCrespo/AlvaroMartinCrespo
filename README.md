@@ -8,7 +8,7 @@
 Construyo interfaces web rápidas y accesibles con **React, TypeScript, JavaScript, Angular y PHP**.
 Explorando el desarrollo asistido por IA.
 
-──── ⋆⋆⋆ ────
+──────── ⋆⋆⋆ ────────
 
 </div>
 
