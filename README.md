@@ -41,16 +41,45 @@ Explorando el desarrollo asistido por IA.
 
 </div>
 
-<br>
 <div align="center">
 
 ### Proyectos Destacados
 
 <table>
 <tr>
-<td><a href="https://github.com/AlvaroMartinCrespo/studio"><img width="270" src="https://github-readme-stats.vercel.app/api/pin/?username=AlvaroMartinCrespo&repo=studio&bg_color=0D1117&title_color=00E5FF&text_color=c9d1d9&icon_color=00E5FF&hide_border=true&border_radius=10" /></a></td>
-<td><a href="https://github.com/AlvaroMartinCrespo/howeb"><img width="270" src="https://github-readme-stats.vercel.app/api/pin/?username=AlvaroMartinCrespo&repo=howeb&bg_color=0D1117&title_color=00E5FF&text_color=c9d1d9&icon_color=00E5FF&hide_border=true&border_radius=10" /></a></td>
-<td><a href="https://github.com/AlvaroMartinCrespo/kahoot-app"><img width="270" src="https://github-readme-stats.vercel.app/api/pin/?username=AlvaroMartinCrespo&repo=kahoot-app&bg_color=0D1117&title_color=00E5FF&text_color=c9d1d9&icon_color=00E5FF&hide_border=true&border_radius=10" /></a></td>
+<td width="33%" valign="top">
+
+**[Studio](https://github.com/AlvaroMartinCrespo/studio)**
+<br>
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=00E5FF" />
+
+Portfolio y blog con entradas generadas y publicadas automáticamente cada día mediante IA.
+
+<img src="https://img.shields.io/github/stars/AlvaroMartinCrespo/studio?style=flat-square&color=0D1117&labelColor=0D1117&logo=github&logoColor=00E5FF&label=" />
+
+</td>
+<td width="33%" valign="top">
+
+**[Howeb](https://github.com/AlvaroMartinCrespo/howeb)**
+<br>
+<img src="https://img.shields.io/badge/Laravel-0D1117?style=flat-square&logo=laravel&logoColor=00E5FF" />
+
+Aplicación de reserva de alojamientos con funcionalidades diferenciadas por tipo de usuario (cliente / admin).
+
+<img src="https://img.shields.io/github/stars/AlvaroMartinCrespo/howeb?style=flat-square&color=0D1117&labelColor=0D1117&logo=github&logoColor=00E5FF&label=" />
+
+</td>
+<td width="33%" valign="top">
+
+**[Kahoot App](https://github.com/AlvaroMartinCrespo/kahoot-app)**
+<br>
+<img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=00E5FF" />
+
+Clon de Kahoot para crear y jugar cuestionarios interactivos en tiempo real, con autenticación segura.
+
+<img src="https://img.shields.io/github/stars/AlvaroMartinCrespo/kahoot-app?style=flat-square&color=0D1117&labelColor=0D1117&logo=github&logoColor=00E5FF&label=" />
+
+</td>
 </tr>
 </table>
 
