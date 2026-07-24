@@ -12,7 +12,6 @@ Explorando el desarrollo asistido por IA.
 
 </div>
 
-<br>
 
 <div align="center">
 
