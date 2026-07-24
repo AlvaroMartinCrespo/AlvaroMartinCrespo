@@ -42,6 +42,21 @@ Explorando el desarrollo asistido por IA.
 </div>
 
 <br>
+<div align="center">
+
+### Proyectos Destacados
+
+<table>
+<tr>
+<td><a href="https://github.com/AlvaroMartinCrespo/studio"><img width="270" src="https://github-readme-stats.vercel.app/api/pin/?username=AlvaroMartinCrespo&repo=studio&bg_color=0D1117&title_color=00E5FF&text_color=c9d1d9&icon_color=00E5FF&hide_border=true&border_radius=10" /></a></td>
+<td><a href="https://github.com/AlvaroMartinCrespo/howeb"><img width="270" src="https://github-readme-stats.vercel.app/api/pin/?username=AlvaroMartinCrespo&repo=howeb&bg_color=0D1117&title_color=00E5FF&text_color=c9d1d9&icon_color=00E5FF&hide_border=true&border_radius=10" /></a></td>
+<td><a href="https://github.com/AlvaroMartinCrespo/kahoot-app"><img width="270" src="https://github-readme-stats.vercel.app/api/pin/?username=AlvaroMartinCrespo&repo=kahoot-app&bg_color=0D1117&title_color=00E5FF&text_color=c9d1d9&icon_color=00E5FF&hide_border=true&border_radius=10" /></a></td>
+</tr>
+</table>
+
+</div>
+
+<br>
 
 <div align="center">
 
