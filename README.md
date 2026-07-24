@@ -6,7 +6,7 @@
 ### Frontend Developer · React & Javascript Engineer
 
 Construyo interfaces web rápidas y accesibles con **React, TypeScript, JavaScript, Angular y PHP**.
-Explorando el desarrollo asistido por IA con **ChatGPT, Gemini y Claude**.
+Explorando el desarrollo asistido por IA.
 
 ──── ⋆⋆⋆ ────
 
